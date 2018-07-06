@@ -1,0 +1,25 @@
+	-------------------------------
+Log Entry: 10:04:27 terça-feira, 6 de fevereiro de 2018
+Log Message: Parameter url:[{"Id":19999989,"Erro":0,"NullPointerException":""},{"Id":19999985,"Erro":0,"Mensagem":""}]
+-------------------------------
+-------------------------------
+Log Entry: 10:05:53 terça-feira, 6 de fevereiro de 2018
+Log Message: Parameter url:
+-------------------------------
+-------------------------------
+Log Entry: 10:05:53 terça-feira, 6 de fevereiro de 2018
+Log Message: Valor não pode ser nulo.
+Nome do parâmetro: value
+-------------------------------
+-------------------------------
+Log Entry: 10:08:28 terça-feira,  de fevereiro de 2018
+Log Message: Parameter url:[{"Id":19999989,"Erro":0,"OutOfMemoryError":""},{"Id":19999985,"Erro":0,"Mensagem":""}]
+-------------------------------
+-------------------------------
+Log Entry: 10:10:00 terça-feira,  de fevereiro de 2018
+Log Message: Parameter url:[{"Id":19999989,"Erro":0,"StackOverflow":""},{"Id":19999985,"Erro":0,"Mensagem":""}]
+-------------------------------
+-------------------------------
+Log Entry: 10:10:00 terça-feira,  de fevereiro de 2018
+Log Message: Parameter url:[{"Id":19999989,"Erro":0,"IOException":""},{"Id":19999985,"Erro":0,"Mensagem":""}]
+-------------------------------
