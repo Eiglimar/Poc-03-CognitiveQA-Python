@@ -27,7 +27,7 @@ password='xxxxxx')#----->Your Translate service password here
 #----------------------------------Fim das Declarações--------------------------------------------#
 
 #-----------------------------------Início dasFunções---------------------------------------------#
-logFile = open('/home/capgemini/Documentos/PocCQA/python/log_api_sagram_06-02-2018.txt','r')
+logFile = open('/log_api_sagram_06-02-2018.txt','r')#----> path of your files here
 logMessageRaw = logFile.read()
 logFile.close()
 
@@ -62,7 +62,7 @@ for identifiedError in responseWA['entities']:
             print(causaErro)
             print(solucaoErro)
 
-            options={'server': 'http://jira.br.capgemini.com:8080'}
+            options={'server': #'your Jira server here'}
 
             jira=JIRA(options,basic_auth=('xxxxxx', 'xxxxxx'))#----->Your Jira service account details here
 
